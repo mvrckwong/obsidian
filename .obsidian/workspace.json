@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "373932caae704ad7",
+        "id": "f114440a86695ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "a9a378c213270269",
+            "id": "459098440a976349",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 Projects/Projects Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Projects Index"
             }
           },
           {
@@ -108,11 +109,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "10 Projects/Projects Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Projects Index"
             }
           },
           {
@@ -136,12 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "10 Projects/Projects Index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Projects Index"
             }
           }
         ]
@@ -162,8 +165,26 @@
       "bases:Create new base": false
     }
   },
-  "active": "a9a378c213270269",
+  "active": "8f7c18a98e0a4f23",
   "lastOpenFiles": [
+    "20 Areas/Areas Index.md",
+    "30 Resources/Resources Index.md",
+    "90 Archive/Archive Index.md",
+    "99 Templates/Area Template.md",
+    "99 Templates/Daily Note Template.md",
+    "99 Templates/Meeting Notes Template.md",
+    "99 Templates/Note Template.md",
+    "99 Templates/Resource Template.md",
+    "99 Templates/Weekly Review Template.md",
+    "99 Templates/Project Template.md",
+    "10 Projects/Projects Index.md",
+    "00 Inbox/Inbox.md",
+    "99 Templates",
+    "90 Archive",
+    "30 Resources",
+    "20 Areas",
+    "10 Projects",
+    "00 Inbox",
     "Untitled.md",
     "asdasd.md",
     "README.md"
