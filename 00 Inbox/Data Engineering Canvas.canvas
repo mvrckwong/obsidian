@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"3d194f7a0230edbf","type":"text","text":"What are good at?\n- Data Engineering\n- Data Analysis (Intermediate)\n- Scheduling and Automation\n- Reporting (Schedule sending)\n- Integration of multiple backends and databases. Easy part.","x":-960,"y":-220,"width":500,"height":420,"color":"1"},
+		{"id":"537d5d93ef3f9d55","type":"text","text":"Opportunities\n- Integration\n\t- Integration of multiple payment providers and merchants (Bluedrive).\n\t\t- What is hard?\n\t\t- Customer Support.\n\t\t- Operational Support of Backend.\n\t- Integration of multiple datasets and analysis with a good platform (Willow). Willow is just integration of multiple tools plus the analysis. Digital Twin, Data Engineering and Data Analysis.","x":-420,"y":-220,"width":600,"height":420},
+		{"id":"ed8fab88b01e956b","type":"text","text":"Data Engineering Impact\n- Insights to the Key Decision Maker.\n- How many users actively use the data/insights you provide?\n- Time saved through automation.\n- Business outcomes influenced by your data products.\n- Reduction in the manual data requests.","x":-960,"y":260,"width":500,"height":300},
+		{"id":"21993e7fce291965","type":"text","text":"Data Engineering Impact\n- Insights to the Key Decision Maker.\n- How many users actively use the data/insights you provide?\n- Time saved through automation.\n- Business outcomes influenced by your data products.\n- Reduction in the manual data requests.\n\nBusiness Impact\n- Number of Active Users and Customers\n- Data Product Usage\n- Adoption Rate.\n\nTechnical\n- Pipeline Success Rate\n- MTTR for the critical pipelines\n- Infrastructure Costs\n- Data Freshness for critical datasets.","x":-1800,"y":60,"width":560,"height":720}
+	],
+	"edges":[]
+}

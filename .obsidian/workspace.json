@@ -11,10 +11,17 @@
             "id": "5de7be7b341ce46f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "00 Inbox/Data Engineering Canvas - Copy.canvas",
+                "viewState": {
+                  "x": -1081.770440251572,
+                  "y": 88.44276729559749,
+                  "zoom": -1.6447995308807672
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Data Engineering Canvas - Copy"
             }
           }
         ]
@@ -165,8 +172,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8f7c18a98e0a4f23",
+  "active": "5de7be7b341ce46f",
   "lastOpenFiles": [
+    "README.md",
+    "00 Inbox/Data Engineering Canvas - Copy.canvas",
+    "00 Inbox/Data Engineering Canvas.canvas",
     "00 Inbox/Inbox.md",
     "99 Templates/Weekly Review Template.md",
     "99 Templates/Resource Template.md",
@@ -188,7 +198,6 @@
     "10 Projects",
     "00 Inbox",
     "Untitled.md",
-    "asdasd.md",
-    "README.md"
+    "asdasd.md"
   ]
 }
