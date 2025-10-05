@@ -2,8 +2,11 @@
 type: resource
 topic: mental models
 source: interviews, articles, biographies
-date_added: {{date}}
-tags: [musk, mental-models]
+date_added:
+  "{ date }":
+tags:
+  - musk
+  - mental-models
 ---
 
 # Elon Musk Thinking

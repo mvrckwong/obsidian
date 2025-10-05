@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f114440a86695ac3",
+        "id": "ecab6b2c6ef372aa",
         "type": "tabs",
         "children": [
           {
-            "id": "459098440a976349",
+            "id": "5de7be7b341ce46f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -167,18 +167,20 @@
   },
   "active": "8f7c18a98e0a4f23",
   "lastOpenFiles": [
-    "20 Areas/Areas Index.md",
-    "30 Resources/Resources Index.md",
-    "90 Archive/Archive Index.md",
+    "00 Inbox/Inbox.md",
+    "99 Templates/Weekly Review Template.md",
+    "99 Templates/Resource Template.md",
+    "99 Templates/Brainstorm Template.md",
     "99 Templates/Area Template.md",
+    "90 Archive/Archive Index.md",
+    "30 Resources/Resources Index.md",
+    "30 Resources/Elon Musk Thinking.md",
+    "20 Areas/Areas Index.md",
     "99 Templates/Daily Note Template.md",
     "99 Templates/Meeting Notes Template.md",
     "99 Templates/Note Template.md",
-    "99 Templates/Resource Template.md",
-    "99 Templates/Weekly Review Template.md",
     "99 Templates/Project Template.md",
     "10 Projects/Projects Index.md",
-    "00 Inbox/Inbox.md",
     "99 Templates",
     "90 Archive",
     "30 Resources",
