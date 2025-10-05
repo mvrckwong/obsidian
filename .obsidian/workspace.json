@@ -4,27 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ecab6b2c6ef372aa",
+        "id": "b8e8c575457c100e",
         "type": "tabs",
         "children": [
           {
-            "id": "5de7be7b341ce46f",
+            "id": "921213716031984d",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "00 Inbox/Data Engineering Canvas - Copy.canvas",
+                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
                 "viewState": {
-                  "x": -1081.770440251572,
-                  "y": 88.44276729559749,
-                  "zoom": -1.6447995308807672
+                  "x": -1198.3731656184486,
+                  "y": 80.73165618448637,
+                  "zoom": -0.6276753530895582
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Data Engineering Canvas - Copy"
+              "title": "Data Engineering Canvas"
+            }
+          },
+          {
+            "id": "ab213756f46c7403",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
+                "viewState": {
+                  "x": -1302.3695968402783,
+                  "y": -133.8168306986332,
+                  "zoom": -0.513655048160701
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Data Engineering Canvas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Projects/Projects Index.md",
+                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projects Index"
+              "title": "Backlinks for Data Engineering Canvas"
             }
           },
           {
@@ -153,13 +171,38 @@
               "icon": "lucide-list",
               "title": "Outline of Projects Index"
             }
+          },
+          {
+            "id": "5788d61b4d331823",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e933ebc9f0e0ee7c",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,35 +212,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false
     }
   },
-  "active": "5de7be7b341ce46f",
+  "active": "ab213756f46c7403",
   "lastOpenFiles": [
-    "README.md",
-    "00 Inbox/Data Engineering Canvas - Copy.canvas",
+    "30 Resources/Data Engineering/Data Engineering Hub.md",
     "00 Inbox/Data Engineering Canvas.canvas",
+    "00 Inbox/Data Engineering Canvas - Copy.canvas",
+    "30 Resources/Data Engineering/Data Architecture Patterns.md",
+    "30 Resources/Data Engineering/Core Data Engineering Stack.md",
+    "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
+    "30 Resources/Data Engineering/Core Data Engineering Skills.md",
+    "30 Resources/Brainstorms/Example Brainstorm - 10x Cost Reduction.md",
+    "30 Resources/Brainstorms/Elon Musk Thinking.md",
+    "30 Resources/Data Engineering/Data Engineering Index.md",
+    "30 Resources/Data Engineering/Data Engineering KPIs and Impact.md",
+    "30 Resources/Data Engineering/Data Engineering Maturity Model.md",
+    "30 Resources/Data Engineering/Data Engineering Soft Skills.md",
+    "30 Resources/Resources Index.md",
+    "Data Mesh.md",
+    "Dimensional Modeling.md",
+    "99 Templates/Area Template.md",
+    "30 Resources/Data Engineering",
+    "Pasted image 20251005194543.png",
+    "README.md",
     "00 Inbox/Inbox.md",
     "99 Templates/Weekly Review Template.md",
     "99 Templates/Resource Template.md",
     "99 Templates/Brainstorm Template.md",
-    "99 Templates/Area Template.md",
     "90 Archive/Archive Index.md",
-    "30 Resources/Resources Index.md",
-    "30 Resources/Elon Musk Thinking.md",
     "20 Areas/Areas Index.md",
     "99 Templates/Daily Note Template.md",
     "99 Templates/Meeting Notes Template.md",
     "99 Templates/Note Template.md",
     "99 Templates/Project Template.md",
-    "10 Projects/Projects Index.md",
     "99 Templates",
     "90 Archive",
     "30 Resources",
     "20 Areas",
     "10 Projects",
-    "00 Inbox",
-    "Untitled.md",
-    "asdasd.md"
+    "00 Inbox"
   ]
 }

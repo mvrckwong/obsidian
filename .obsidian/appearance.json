@@ -1,5 +1,7 @@
 {
   "cssTheme": "Minimal",
-  "baseFontSize": 18,
-  "textFontFamily": "JetBrains Mono"
+  "baseFontSize": 16,
+  "textFontFamily": "JetBrains Mono",
+  "theme": "obsidian",
+  "baseFontSizeAction": false
 }

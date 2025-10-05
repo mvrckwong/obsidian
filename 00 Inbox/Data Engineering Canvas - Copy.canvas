@@ -10,9 +10,11 @@
 		{"id":"35f3552f9edebcc7","type":"text","text":"Data Modeling and Design\n- Dimensional Modeling\n- Data Vault\n- Wide Tables vs Normalized\n- Slowly Changing Dimensions (SCD's)","x":-2020,"y":-646,"width":490,"height":212},
 		{"id":"be0fecaa21ba3805","type":"text","text":"Data Quality and Governance\n- Dimensional Modeling\n- Data Vault\n- Wide Tables vs Normalized\n- Slowly Changing Dimensions (SCD's)","x":-2020,"y":-407,"width":490,"height":212},
 		{"id":"f6f4bd1343b6b6a2","type":"text","text":"Core Components\n- Ingestion (Airbyte, Fivetran, etc.)\n- Orchestration (Airflow, Prefect, etc.)\n- Transformation (Spark, DBT, etc.)\n- Reporting (Power BI, Metabase, etc.)\n- Data Storage (Redshift, Snowflake)","x":-2020,"y":-1180,"width":490,"height":281},
-		{"id":"4941a02d917c727a","type":"text","text":"**Data Engineering Concepts**","x":-2780,"y":-674,"width":490,"height":54},
+		{"id":"4941a02d917c727a","type":"text","text":"**Data Engineering Concepts**","x":-2780,"y":-674,"width":490,"height":50},
 		{"id":"252e00d4e350e45a","type":"text","text":"Soft Skills and Practices\n- Stakeholder Management\n- Documentation Culture\n- On-call and Incident Response\n- Technical Debt Management\n- Cross Functional Collaboration","x":-2780,"y":-567,"width":490,"height":266},
-		{"id":"4f952b9f74cc1520","type":"text","text":"Data Engineering Impact\n- Insights to the Key Decision Maker.\n- How many users actively use the data/insights you provide?\n- Time saved through automation.\n- Business outcomes influenced by your data products.\n- Reduction in the manual data requests.\n\nBusiness Impact\n- Number of Active Users and Customers\n- Data Product Usage\n- Adoption Rate.\n\nTechnical\n- Pipeline Success Rate\n- MTTR for the critical pipelines\n- Infrastructure Costs\n- Data Freshness for critical datasets.","x":-2780,"y":-253,"width":490,"height":720}
+		{"id":"4f952b9f74cc1520","type":"text","text":"Data Engineering Impact\n- Insights to the Key Decision Maker.\n- How many users actively use the data/insights you provide?\n- Time saved through automation.\n- Business outcomes influenced by your data products.\n- Reduction in the manual data requests.\n\nBusiness Impact\n- Number of Active Users and Customers\n- Data Product Usage\n- Adoption Rate.\n\nTechnical\n- Pipeline Success Rate\n- MTTR for the critical pipelines\n- Infrastructure Costs\n- Data Freshness for critical datasets.","x":-2780,"y":-253,"width":490,"height":720},
+		{"id":"6d1349e3babe0b55","type":"text","text":"Core Skills\n- SQL\n- Python\n- Spark and PySpark\n- Git and GitHub\n- Data Pipelines\n- Data Platforms or Cloud Platforms\n- Data Engineering Project","x":-2020,"y":-1520,"width":490,"height":300},
+		{"id":"baed19b2e5ef86e9","type":"text","text":"Tooling Criteria\n- ","x":-2020,"y":-1860,"width":490,"height":300}
 	],
 	"edges":[
 		{"id":"9fa91033ee160247","fromNode":"4941a02d917c727a","fromSide":"right","toNode":"9b9220a4b88e0bf1","toSide":"left"},
@@ -25,6 +27,7 @@
 		{"id":"b4ffa4076f403fdd","fromNode":"4290b85f29946774","fromSide":"right","toNode":"9bd496ef9e7c8936","toSide":"left"},
 		{"id":"5766e8e00ed75fd1","fromNode":"4290b85f29946774","fromSide":"right","toNode":"a6fc12a3de90f0f6","toSide":"left"},
 		{"id":"0be23884404b76b3","fromNode":"4941a02d917c727a","fromSide":"right","toNode":"f6f4bd1343b6b6a2","toSide":"left"},
-		{"id":"1dadcbcfcb21aeab","fromNode":"4941a02d917c727a","fromSide":"bottom","toNode":"252e00d4e350e45a","toSide":"top"}
+		{"id":"1dadcbcfcb21aeab","fromNode":"4941a02d917c727a","fromSide":"bottom","toNode":"252e00d4e350e45a","toSide":"top"},
+		{"id":"26d1add4fd2afeef","fromNode":"4941a02d917c727a","fromSide":"right","toNode":"6d1349e3babe0b55","toSide":"left"}
 	]
 }
