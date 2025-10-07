@@ -13,36 +13,18 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
+                "file": "00 Inbox/Data Engineering Canvas.canvas",
                 "viewState": {
-                  "x": -1198.3731656184486,
-                  "y": 80.73165618448637,
-                  "zoom": -0.6276753530895582
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Data Engineering Canvas"
-            }
-          },
-          {
-            "id": "ab213756f46c7403",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
-                "viewState": {
-                  "x": -1302.3695968402783,
-                  "y": -133.8168306986332,
-                  "zoom": -0.513655048160701
+                  "x": -390,
+                  "y": -10,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Data Engineering Canvas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
+                "file": "00 Inbox/Data Engineering Canvas.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,21 +198,22 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ab213756f46c7403",
+  "active": "921213716031984d",
   "lastOpenFiles": [
-    "30 Resources/Data Engineering/Data Engineering Hub.md",
-    "00 Inbox/Data Engineering Canvas.canvas",
     "00 Inbox/Data Engineering Canvas - Copy.canvas",
-    "30 Resources/Data Engineering/Data Architecture Patterns.md",
-    "30 Resources/Data Engineering/Core Data Engineering Stack.md",
-    "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
-    "30 Resources/Data Engineering/Core Data Engineering Skills.md",
-    "30 Resources/Brainstorms/Example Brainstorm - 10x Cost Reduction.md",
+    "30 Resources/Brainstorms/Brainstorms Index.md",
     "30 Resources/Brainstorms/Elon Musk Thinking.md",
+    "30 Resources/Brainstorms/Example Brainstorm - 10x Cost Reduction.md",
+    "30 Resources/Data Engineering/Core Data Engineering Skills.md",
+    "30 Resources/Data Engineering/Core Data Engineering Stack.md",
+    "30 Resources/Data Engineering/Data Architecture Patterns.md",
+    "30 Resources/Data Engineering/Data Engineering Hub.md",
     "30 Resources/Data Engineering/Data Engineering Index.md",
     "30 Resources/Data Engineering/Data Engineering KPIs and Impact.md",
     "30 Resources/Data Engineering/Data Engineering Maturity Model.md",
     "30 Resources/Data Engineering/Data Engineering Soft Skills.md",
+    "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
+    "00 Inbox/Data Engineering Canvas.canvas",
     "30 Resources/Resources Index.md",
     "Data Mesh.md",
     "Dimensional Modeling.md",
@@ -247,7 +230,6 @@
     "99 Templates/Daily Note Template.md",
     "99 Templates/Meeting Notes Template.md",
     "99 Templates/Note Template.md",
-    "99 Templates/Project Template.md",
     "99 Templates",
     "90 Archive",
     "30 Resources",
