@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e8c575457c100e",
+        "id": "063cd13224377237",
         "type": "tabs",
         "children": [
           {
-            "id": "921213716031984d",
+            "id": "3c9c7464226ae283",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "00 Inbox/Data Engineering Canvas.canvas",
-                "viewState": {
-                  "x": -390,
-                  "y": -10,
-                  "zoom": 0
-                }
+                "file": "30 Resources/Data Engineering/Core Data Engineering Skills.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Data Engineering Canvas"
+              "icon": "lucide-file",
+              "title": "Core Data Engineering Skills"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Inbox/Data Engineering Canvas.canvas",
+                "file": "30 Resources/Data Engineering/Core Data Engineering Skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Engineering Canvas"
+              "title": "Backlinks for Core Data Engineering Skills"
             }
           },
           {
@@ -179,12 +176,23 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "e686b07834fe5b78",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,11 +203,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "markdown-importer:Open format converter": false
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "921213716031984d",
+  "active": "e686b07834fe5b78",
   "lastOpenFiles": [
+    "00 Inbox/Data Engineering Canvas.canvas",
     "00 Inbox/Data Engineering Canvas - Copy.canvas",
     "30 Resources/Brainstorms/Brainstorms Index.md",
     "30 Resources/Brainstorms/Elon Musk Thinking.md",
@@ -213,7 +223,6 @@
     "30 Resources/Data Engineering/Data Engineering Maturity Model.md",
     "30 Resources/Data Engineering/Data Engineering Soft Skills.md",
     "30 Resources/Data Engineering/Data Engineering Canvas.canvas",
-    "00 Inbox/Data Engineering Canvas.canvas",
     "30 Resources/Resources Index.md",
     "Data Mesh.md",
     "Dimensional Modeling.md",
