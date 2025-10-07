@@ -74,7 +74,7 @@ LIMIT 5
 ---
 
 ## 📚 Traditional Index
-For a structured outline view, see: [[Data Engineering Index]]
+For a structured outline view, see: [[DE - Index]]
 
 ---
 

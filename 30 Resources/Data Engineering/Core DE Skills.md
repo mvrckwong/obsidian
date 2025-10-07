@@ -268,8 +268,8 @@ All of the above, plus:
 - Build portfolio projects
 
 ## Related Projects / Areas
-- [[Data Engineering Index]]
+- [[DE - Index]]
 - [[Core Data Engineering Stack]]
-- [[Data Engineering Soft Skills]]
+- [[DE - Soft Skills]]
 
 > PARA Resource: Technical skills roadmap for data engineers.

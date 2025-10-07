@@ -207,8 +207,8 @@ Data Sources → Streaming Layer → Serving Layer
 - Communicate options to stakeholders with pros/cons
 
 ## Related Projects / Areas
-- [[Data Engineering Index]]
+- [[DE - Index]]
 - [[Core Data Engineering Stack]]
-- [[Data Engineering Maturity Model]]
+- [[DE - Maturity Model]]
 
 > PARA Resource: Architectural patterns for designing data systems.

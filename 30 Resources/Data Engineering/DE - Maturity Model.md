@@ -139,7 +139,7 @@ Push boundaries, enable new business models, thought leadership.
 4. **Iterate**: Maturity is a journey, not a destination
 
 ## Related Projects / Areas
-- [[Data Engineering KPIs and Impact]]
-- [[Data Engineering Index]]
+- [[DE - KPIs and Impact]]
+- [[DE - Index]]
 
 > PARA Resource: Framework for assessing and improving data engineering capabilities.

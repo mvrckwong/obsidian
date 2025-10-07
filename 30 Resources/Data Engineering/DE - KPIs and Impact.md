@@ -215,8 +215,8 @@ Add:
 - Communicate value to leadership
 
 ## Related Projects / Areas
-- [[Data Engineering Maturity Model]]
-- [[Data Engineering Index]]
+- [[DE - Maturity Model]]
+- [[DE - Index]]
 - [[Data Lineage and Observability]]
 
 > PARA Resource: Framework for measuring and communicating data engineering impact.

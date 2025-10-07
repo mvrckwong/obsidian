@@ -141,8 +141,8 @@ The "modern data stack" emphasizes:
 - Update as tools evolve and new solutions emerge
 
 ## Related Projects / Areas
-- [[Data Engineering Index]]
-- [[Data Architecture Patterns]]
-- [[Core Data Engineering Skills]]
+- [[DE - Index]]
+- [[DE - Architecture Patterns]]
+- [[Core DE Skills]]
 
 > PARA Resource: Guide to essential data engineering tools and components.

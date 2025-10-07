@@ -289,8 +289,8 @@ Add:
 - Incorporate into 1-on-1s and performance goals
 
 ## Related Projects / Areas
-- [[Data Engineering Index]]
-- [[Core Data Engineering Skills]]
+- [[DE - Index]]
+- [[Core DE Skills]]
 - [[Documentation Culture]]
 - [[Incident Response for Data Teams]]
 

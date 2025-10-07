@@ -10,7 +10,7 @@ A comprehensive collection of data engineering concepts, patterns, tools, and be
 - [[Data Storage Solutions]]
 
 ## Architecture Patterns
-- [[Data Architecture Patterns]]
+- [[DE - Architecture Patterns]]
 - [[Batch vs Stream Processing]]
 - [[Lambda Architecture]]
 - [[Kappa Architecture]]
@@ -29,12 +29,12 @@ A comprehensive collection of data engineering concepts, patterns, tools, and be
 - [[Data Catalogs]]
 
 ## Skills & Competencies
-- [[Core Data Engineering Skills]]
-- [[Data Engineering Soft Skills]]
+- [[Core DE Skills]]
+- [[DE - Soft Skills]]
 
 ## Maturity & Impact
-- [[Data Engineering Maturity Model]]
-- [[Data Engineering KPIs and Impact]]
+- [[DE - Maturity Model]]
+- [[DE - KPIs and Impact]]
 
 ## Best Practices
 - [[Data Pipeline Design Patterns]]
